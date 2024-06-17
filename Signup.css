@@ -1,0 +1,20 @@
+*{
+    color: whitesmoke;
+}
+
+#signup_name,#signup_mobile,#signup_email,#signup_psw,#signup_cpsw{
+    color: black !important;
+    height: 30px;
+    width: 250px;
+    padding-left: 10px;
+    border: 0.1px solid;
+    border-radius: 10px
+
+}
+#signup_submit{
+    height: 30px;
+    width: 250px;
+    color: rgb(17, 16, 16) !important;
+    position: relative;
+    left: 40px;
+}

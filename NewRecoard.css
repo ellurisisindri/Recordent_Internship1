@@ -1,0 +1,17 @@
+*{
+    color: whitesmoke;
+}
+
+#new_empname,#new_empdept,#new_empsal,#new_emp_submit{
+    color: black;
+    height: 25px;
+    width: 190px;
+    border: 0.1px solid;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+#new_emp_submit{
+    position: relative;
+    left: 70px;
+}

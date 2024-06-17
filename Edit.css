@@ -1,0 +1,21 @@
+*{
+    color: white;
+}
+
+#edit_name,#edit_dept,#edit_sal{
+    height: 30px;
+    width: 250px;
+    color: black;
+    border: 0.1px solid;
+    border-radius: 10px;
+    font-size:medium;
+    padding-left: 20px;
+}
+
+#edit_submit{
+    height: 30px;
+    width: 250px;
+    color: black;
+    position: relative;
+    left: 50px;
+}

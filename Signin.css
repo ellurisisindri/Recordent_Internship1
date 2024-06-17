@@ -1,0 +1,107 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+/* color: black !important; */
+
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+    background-image: url('https://t4.ftcdn.net/jpg/02/16/47/33/360_F_216473351_FCLq1pZQOBFrgcyPBphKvBd8Z5wjD1dI.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img{
+    height: 90px !important;
+    width: 400px !important;
+}
+
+#signin_emailmobile,#signin_psw{
+    height: 40px;
+    width: 300px;
+    position: relative;
+    left: 60px;
+    font-size: large;
+    padding-left: 60px;
+    color: rgb(0,0,0);
+
+}
+
+#lock{
+    height: 30px;
+    width: 30px;
+    background-color: blanchedalmond;
+    position: relative;
+    bottom: 36px;
+    left: 75px;   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(0,0,0);
+    font-size: large;
+}
+
+/* #lock{
+    position: relative;
+    bottom: 36px;
+    left: 66px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+
+#emailfont{
+    height: 30px !important;
+    width: 30px !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    bottom: 125px;
+    left: 62px;
+    color: rgb(0,0,0);
+
+
+}
+#mob{
+    height: 30px !important;
+    width: 30px !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    bottom: 155px;
+    left: 91px;
+    color: rgb(0,0,0);
+
+}
+
+#signin_emailmobile,#signin_psw{
+    background-color:  blanchedalmond; 
+}
+
+
+
+
+#signin_line{
+    height: 1px;
+    width: 35px;
+    background-color: black;
+    transform:rotate(120deg);
+    position: relative;
+    bottom: 265px;
+    left: 75px;
+  
+}
+
+#signin_submit{
+    height: 40px !important;
+    width: 300px !important;
+    position: relative;
+    left: 62px;
+    color: rgb(0,0,0);
+
+}
